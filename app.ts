@@ -1,2 +1,2 @@
-let personName="wakeel anjum"
-console.log('hello',personName,"would you like to learn some python today");
+
+console.log("wakeel anjum\nWAKEEL ANJUM\nWakeel Anjum");
