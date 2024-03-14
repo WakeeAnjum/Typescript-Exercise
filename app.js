@@ -1,6 +1,6 @@
 "use strict";
-// wakeel anjum
-// date: 11-03-2024
-// let userName="wakeel anjum";
-// let message="hi wakeel would you like to learn python today";
-// console.log(userName,message);
+let friendsNames = ["wakeel", "anjum", "sajid", "liaquat"];
+console.log(friendsNames[0]);
+console.log(friendsNames[1]);
+console.log(friendsNames[2]);
+console.log(friendsNames[3]);
