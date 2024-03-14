@@ -1,4 +1,8 @@
-let whitespace="\n\twakeel anjum\t\n";
-console.log(whitespace);
-let whithoutwhitespace=whitespace.trim();
-console.log(whithoutwhitespace);
+let addition=4+4;
+let subtraction=10-2;
+let multiplication=4*2;
+let division=16/2;
+console.log(addition);
+console.log(subtraction);
+console.log(multiplication);
+console.log(division);
