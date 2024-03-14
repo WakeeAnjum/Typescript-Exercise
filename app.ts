@@ -1,5 +1,6 @@
-let friendsNames=["wakeel","anjum","sajid","liaquat"];
-console.log(friendsNames[0]);
-console.log(friendsNames[1]);
-console.log(friendsNames[2]);
-console.log(friendsNames[3]);
+let friendsName=["wakeel","anjum","sajid","liaquat"];
+let message="how are you";
+console.log("hello",friendsName[0],message);
+console.log("hello",friendsName[1],message);
+console.log("hello",friendsName[2],message);
+console.log("hello",friendsName[3],message);
